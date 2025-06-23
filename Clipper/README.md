@@ -1,3 +1,10 @@
+> ⚠️ **WARNING: Educational Malware – Use Responsibly**
+
+This folder contains code for malware clipper. It is intended **solely for educational, research and red teaming purposes**.
+
+**Do not use this code on systems you do not own or have explicit permission to test. Unauthorized use may be illegal and unethical.**
+
+
 To compile the c++ file: (Linux)
 
 ```less
